@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "78d7840018d750a5917547e71843da953a3a89cb",
+    "author": "Renata Diaz <renatadiaz@arizona.edu>",
+    "time": "2023-12-08 19:24:29",
+    "files": 77,
+    "merge": false,
+    "message": "Chante test file names to match R files, add note to README re pipes, delete manuscript directory, delete review notes.\n"
+  },
+  "repo": "https://github.com/ropensci/birdsize",
+  "pkg": "birdsize"
+}
